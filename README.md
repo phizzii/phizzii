@@ -12,4 +12,3 @@
 🪐 **Pronouns !**
 + she/her
 
-🪐 
