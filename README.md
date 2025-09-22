@@ -3,11 +3,13 @@
 🪐 **Working towards !**
 + being a data analyst
 + making a game
++ using blender & other rendering tools
 
 🪐 **Currently learning !**
-+ data analytics
-+ programming fundamentals
-+ quality driven development
++ Analysis Software & Career Practice
++ Business Organisation & Decision Making
++ Next Generation Technology Design: Network, Security & Green Computing
++ Enhanced Reflective Practice For Technology Professionals
 
 🪐 **Pronouns !**
 + she/her
