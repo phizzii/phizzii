@@ -3,7 +3,9 @@
 🪐 **Working towards !**
 + being a data analyst
 + making a game
++ creating a game-based pixel art productivity app
 + using blender & other rendering tools
++ learning to use Java (+Script), C#, Python, HTML and CSS
 
 🪐 **Currently learning !**
 + Analysis Software & Career Practice
