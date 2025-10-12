@@ -16,3 +16,5 @@
 🪐 **Pronouns !**
 + she/her
 
+💫 **Connect with me !**
+[www.linkedin.com/in/sophie-botten-82a91227a]
