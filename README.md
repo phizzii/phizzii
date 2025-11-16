@@ -2,9 +2,9 @@
 ---
 🪐 **Working towards !**
 + being a data analyst
-+ making a game
++ learning more in depth about Unity and making my own game!
 + creating a game-based pixel art productivity app
-+ using blender & other rendering tools
++ using blender & other rendering tools (Unity game engine)
 + learning to use Java (+Script), C#, Python, HTML and CSS
 
 🪐 **Currently learning !**
